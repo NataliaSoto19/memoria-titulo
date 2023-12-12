@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">942e68ec-9c55-46e5-aebd-d1f6cc939dbe</dc:identifier>
+        <dc:title>De la memoria al registro</dc:title>
+        <dc:creator opf:file-as="Vásquez, Natalia Soto" opf:role="aut">Natalia Soto Vásquez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Memoria de título que recopila el proyecto décadas semanas universitarias 2013-2023</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>memoria</dc:subject>
+        <dc:subject>titulo</dc:subject>
+        <dc:subject>edición</dc:subject>
+        <dc:subject>Kindle</dc:subject>
+        <dc:subject>ediciones digitales</dc:subject>
+        <meta name="calibre:timestamp" content="2023-12-12T00:22:37.517800+00:00"/>
+        <meta name="calibre:title_sort" content="De la memoria al registro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="De la memoria al registro - Natalia Soto Vásquez.jpg"/>
+    </guide>
+</package>
